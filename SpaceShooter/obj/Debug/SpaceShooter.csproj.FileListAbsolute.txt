@@ -1,0 +1,50 @@
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\aiv-fast2d.dll
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.dll
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.pdb
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.xml
+D:\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojAssemblyReference.cache
+D:\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+D:\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+D:\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\Desktop\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\player_ship.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\spaceBg.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\blueLaser.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\aivBG.png
+D:\Desktop\SpaceShooter\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\aivBG.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\blueLaser.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\enemy_ship.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\fireGlobe.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\gameOverBg.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\greenGlobe.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\player_ship.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_battery.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\powerUp_triple.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\redEnemy_ship.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\Assets\spaceBg.png
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\aiv-fast2d.dll
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.dll
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.pdb
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\bin\Debug\OpenTK.xml
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\kevin\Desktop\Kevin Personal\AIV Slide\41. Lezione 16 Febbraio 2021\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
